@@ -1,13 +1,13 @@
-### This project is intended for educational purposes ONLY. Do _not_ abuse it.
+## This project is intended for educational purposes ONLY. _Do not_ abuse it.
+<details>
+<summary>Requirements</summary>
 
-| Requirements     | Quick Link(s)                        |
-|---------------------------------------------------------|
-| Python 3         | https://www.python.org/downloads     |
-| A Torrent client | https://www.qbittorrent.org/download |
-|---------------------------------------------------------|
+* Python 3 - [Download here](https://www.python.org/downloads)
+* A Torrent client - [Download here](https://www.qbittorrent.org/download)
 
-Note: This is a VERY large library of music content, An abundence of storage is reccomended.
-Your network connection speed, The number of concurrent downloads, The number of seeders and several other factors can variate the download speed. 
-Speeds will fluctuate over time, somewhat randomly. This is unavoidale due to the nature of how P2P connections work.
+</details>
 
-WARNING: IT IS *HIGHLY RECCOMENDED* THAT A VPN IS USED WHILST OPERATING THIS SOFTWARE. UNLESS YOU KNOW _EXACTLY_ WHAT YOU ARE DOING, BE CAUTIOUS. USE A VPN. (protonVPN is ideal, however it isn't free.)
+
+<sub>Note: This is a VERY large library of music content. An abundance of storage is recommended. Your network connection speed, the number of concurrent downloads, the number of seeders, and several other factors can affect the download speed. Speeds will fluctuate over time, somewhat randomly. This is unavoidable due to the nature of how P2P connections work.</sub>
+
+### ATTENTION: It is *highly recommended* that a VPN is used whilst operating this software. Unless you know _exactly_ what you are doing, be cautious. Use a VPN. <sub>(ProtonVPN is ideal, however it isn't free.)</sub>
